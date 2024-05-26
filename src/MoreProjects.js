@@ -5,7 +5,7 @@ function MoreProjects() {
         <div className='p-10'>
             <div className='flex flex-col items-center w-full gap-10'>
                 <h2 className='text-3xl font-bold'>Explore all Projects</h2>
-                <div className='flex items-center drop-shadow-md bg-zinc-200 w-[50%]  py-2 px-4 rounded'>
+                <div className='flex items-center drop-shadow-md bg-zinc-200 md:w-[50%] w-[95%]  py-2 px-4 rounded'>
                     <input type="text" className='bg-transparent border-none outline-none w-full' />
                     <i class="fa-solid fa-magnifying-glass cursor-pointer"></i>
                 </div>
