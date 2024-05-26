@@ -10,8 +10,8 @@ function Footer() {
         <div className='flex flex-col list-none'>
             <h4 className='font-bold mb-2'>Links</h4>
             <li className=' cursor-pointer hover:underline'><a href='/'>Home</a></li>
-            <li className=' cursor-pointer hover:underline'>Sign up</li>
-            <li className=' cursor-pointer hover:underline'>Sign In</li>
+            <li className=' cursor-pointer hover:underline'><a href='/register'>Sign up</a></li>
+            <li className=' cursor-pointer hover:underline'><a href='/signin'>Sign In</a></li>
         </div>
         <div className='flex flex-col gap-3'>
             <h4>Contact Us</h4>
