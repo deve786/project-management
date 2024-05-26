@@ -75,7 +75,7 @@ function Project() {
                                                 <DialogTitle as="h3" className="text-2xl font-bold mb-3 leading-6 text-gray-900">
                                                     Video Uploader Project
                                                 </DialogTitle>
-                                                <div className="mt-2 flex gap-2">
+                                                <div className="mt-2 flex gap-2 flex-col md:flex-row">
                                                     <img src="./project.png" alt="" className='w-80 rounded' />
                                                     <div>
                                                         <h3 className='text-2xl'>Project Description</h3>
