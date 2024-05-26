@@ -2,7 +2,7 @@ import React from 'react'
 
 function Footer() {
   return (
-    <div className='bg-zinc-200 py-10 px-10 flex justify-between'>
+    <div className='bg-zinc-200 py-10 px-10 flex flex-col justify-between md:flex-row'>
         <div>
             <h4 className='font-bold'>FocusFlow</h4>
             <p className='w-64'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Est quas dolore natus eius consectetur temporibus quod corrupti facilis. </p>
